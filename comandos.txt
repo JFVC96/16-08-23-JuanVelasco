@@ -1,0 +1,38 @@
+    1  pwd
+    2  dir
+    3  ls
+    4  cd Desktop/
+    5  mkdir Camada1
+    6  cd Camada1
+    7  ls
+    8  mkdir Cena
+    9  cd Cena
+   10  touch arepa.txt pizza.pdf tostada.txt
+   11  cd ..
+   12  code .
+   13  git init
+   14  git status
+   15  git add .
+   16  git status
+   17  git commit -m "Subida archivos"
+   18  git remote add origin
+   19  git remote add origin https://github.com/JFVC96/16-08-23-JuanVelasco.git
+   20  git remote -v
+   21  git push origin master
+   22  git push -u origin main
+   23  git checkout -b feature
+   24  git status
+   25  mkdir Hardware Software SeguridadInformatica
+   26  touch Hardware/resumen.txt Software/resumen.txt SeguridadInformatica/resumen.txt
+   27  git add .
+   28  git commit -m "Segundo commit"
+   29  git push -u origin feature
+   30  git checkout -b main
+   31  git ckeckout main
+   32  git status
+   33  git ckeckout origin
+   34  git checkout main
+   35  mv main.js resumenSoftware.txt
+   36  mv index.html resumenHardware.txt
+   37  touch comandos.txt
+   38  history
